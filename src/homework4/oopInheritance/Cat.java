@@ -1,4 +1,4 @@
-package oopInheritance;
+package homework4.oopInheritance;
 
 public class Cat extends Animal {
     static int instanceCount = 0;
