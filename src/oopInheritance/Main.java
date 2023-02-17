@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         new Cat().run(5);
         new Cat().run(300);
-new Cat().swim(12);// как лучше
+        new Cat().swim(12);
         new Dog().run(5);
         new Dog().run(550);
         new Dog().swim(5);
